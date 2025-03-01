@@ -21,7 +21,7 @@ Proyek ini menerapkan dan membandingkan **tiga model klasifikasi** untuk menemuk
 
 | Model                  | Akurasi (%) | Keunggulan | Kekurangan |
 |------------------------|------------|------------|------------|
-| **Logistic Regression** | ~ 70% | Simpel, cepat, mudah diinterpretasi | Kurang mampu menangkap pola non-linear |
+| **Logistic Regression** | **~64.15%** | Simpel, cepat, mudah diinterpretasi | Kurang mampu menangkap pola non-linear |
 | **Random Forest**       | **73.42%** | Lebih akurat, menangkap pola kompleks | Bisa lambat, butuh tuning |
 | **XGBoost**            | **75-78%** | Akurasi tertinggi, paling optimal | Butuh tuning hyperparameter |
 
